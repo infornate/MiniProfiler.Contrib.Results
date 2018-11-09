@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\MiniProfiler.Contrib.Results\MiniProfiler.Contrib.Results.csproj" />
+    <ProjectReference Include="..\MiniProfiler.Contrib.Results\MiniProfiler.Contrib.Results.csproj" />
   </ItemGroup>
 
 </Project>
