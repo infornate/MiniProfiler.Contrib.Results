@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniProfiler.Contrib.Results", "src\MiniProfiler.Contrib.Results\MiniProfiler.Contrib.Results.csproj", "{5C8A70CA-80AC-4F5A-92B3-14AE4E0742BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniProfiler.Contrib.Results.Database", "MiniProfiler.Contrib.Results.Database\MiniProfiler.Contrib.Results.Database.csproj", "{95CFF2E9-1E71-41CD-8EA5-EE60F65F7E16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniProfiler.Contrib.Results.Database", "src\MiniProfiler.Contrib.Results.Database\MiniProfiler.Contrib.Results.Database.csproj", "{95CFF2E9-1E71-41CD-8EA5-EE60F65F7E16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
